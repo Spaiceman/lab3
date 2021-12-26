@@ -9,7 +9,7 @@
 ## Downloading
 
 ```
-git clone {https://github.com/Spaiceman/lab3}
+git clone https://github.com/Spaiceman/lab3
 ```
 
 ## Installing NPM modules
